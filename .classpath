@@ -3,6 +3,6 @@
 	<classpathentry kind="src" path="app"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/activemq-all-5.9.0.jar"/>
-	<classpathentry kind="lib" path="lib/seyhan-pserver-1.0.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/seyhan-pserver-1.0.0.jar"/>
 	<classpathentry kind="output" path="target"/>
 </classpath>
