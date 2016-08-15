@@ -1,4 +1,4 @@
-seyhan-pservice
+The seyhan-pservice
 ===============
 
-seyhan projesi için yazıcı arabirimi kütüphanesi
+The printing service project for seyhan
